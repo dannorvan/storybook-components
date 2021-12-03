@@ -10,7 +10,8 @@
 
 # production
 /build
-/docs
+/story-statics
+
 # misc
 .DS_Store
 .env.local
